@@ -6,7 +6,7 @@ DRUG_NO_DEMO_DATA_AVAILABLE = {'Antidepressants', 'Benzodiazepines'}
 UNIQUE_DRUG_TYPES = ('Antidepressants', 'Benzodiazepines', 'Cocaine', 'Heroin', 'Prescription opioids', 'Psychostimulants', 'Stimulants', 'Synthetic opioids')
 UNIQUE_DEMOS = ('Overall', 'American Indian or Alaska Native (Non-Hispanic)', 'Asian (Non-Hispanic)', 'Black (Non-Hispanic)', 'Hispanic', 'Native Hawaiin or Other Pacific Islander (Non-Hispanic)', 'White (Non-Hispanic)')
 
-REPO_NAME = "SoloSynth1/DSCI-532_2024_16_SilentEpidemic"
+REPO_NAME = "SoloSynth1/silent-epidemic"
 REPO_URL = f"https://github.com/{REPO_NAME}"
 API_ENDPOINT = f"https://api.github.com/repos/{REPO_NAME}"
 
